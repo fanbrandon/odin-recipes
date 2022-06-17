@@ -66,3 +66,23 @@ h1 {
     margin-left:510px;
     margin-right:500px;
 }
+
+p{
+    font-size:25px;
+    font-family: Impact;
+    font-style: italic;
+    color: white;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+
+p2{
+    font-weight: bold;
+}
+    
