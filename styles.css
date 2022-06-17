@@ -1,5 +1,6 @@
 body {
-    background: linear-gradient(180deg, rgb(100,100,100),rgb(110,110,110));
+    background: linear-gradient(195deg, rgb(54, 52, 52),rgb(172, 166, 166));
+    min-height: 100vh;
 }
 
 .title{
