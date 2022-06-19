@@ -25,5 +25,7 @@ body {
   border: 5px solid gray;
   margin: 0;
   width: 320px;
+  display:flex;
+  position:relative;
   float:right;
 }
