@@ -1,6 +1,6 @@
 body {
-    background: linear-gradient(195deg, rgb(54, 52, 52),rgb(172, 166, 166));
-    min-height: 100vh;
+  background: linear-gradient(rgb(110, 99, 204),rgb(2, 7, 54));
+  min-height: 100vh;
 }
 
 .footer{
