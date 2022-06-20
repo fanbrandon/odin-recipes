@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(195deg, rgb(54, 52, 52),rgb(172, 166, 166));
+    background: linear-gradient(rgb(110, 99, 204),rgb(2, 7, 54));
     min-height: 100vh;
 }
 
@@ -90,5 +90,7 @@ p{
 
 p2{
     font-weight: bold;
+    color: white;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
     
